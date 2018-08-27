@@ -1,2 +1,2 @@
-# wmap waw AngularJS google maps
+# wmaps waw AngularJS google maps
 Module which provide google maps use. It's basic wrapper with more services for common use.
